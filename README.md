@@ -1,6 +1,6 @@
 # GSoC-Multiple-Plotting-Engines-PerformanceAnalytics
 
-These are my test solution results for my application to the [Google Summer of code R project, Multiple Plotting Engines for PerformanceAnalytics](https://github.com/rstats-gsoc/gsoc2019/wiki/Multiple-plotting-engines-for-PerformanceAnalytics)
+These are my test solution results for my application to the [Google Summer of code R project, Multiple Plotting Engines for PerformanceAnalytics](https://github.com/rstats-gsoc/gsoc2019/wiki/Multiple-plotting-engines-for-PerformanceAnalytics).
 
 
  - [COMPLETE: "basic"](https://github.com/ItonyoD/GSoC-Multiple-Plotting-Engines-PerformanceAnalytics/tree/master/Basic-Test-Results): clone the repository and install the PerformanceAnalytics package and its dependencies locally
